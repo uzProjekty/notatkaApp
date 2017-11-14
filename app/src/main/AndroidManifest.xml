@@ -22,7 +22,7 @@
         <activity
             android:name=".SelectNote"
             android:label="@string/title_activity_select_note"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
